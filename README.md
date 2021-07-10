@@ -8,6 +8,9 @@ I was given a sample dataset from a Colorado Board of Elections results in a .cs
   3. Calculate the total number of votes each candidate received.
   4. Calculate the percentage of votes each candidate won.
   5. Determine the winner of the election based on popular vote.
+  6. Identify the participating counties.
+  7. Calculate the total number of votes & percentage each county received.
+  8. Determine which county had the most voters.
 
 ## Resources
 - Data Source: election_results.csv
@@ -17,6 +20,8 @@ I was given a sample dataset from a Colorado Board of Elections results in a .cs
 The analysis of the election show that:
 
   - There were 369,711 total votes cast in the election.
+
+  - The county that had the most voter activity was Denver with 82.8% of the votes. (306,055)
 
   - The candidates were:
     - Charles Casper Stockham
